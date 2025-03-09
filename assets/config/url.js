@@ -1,1 +1,0 @@
-export let urlAPICryptoCommunity = "https://nww-community-6b2ac39ed7d7.herokuapp.com/cryptocommunity";

@@ -1,0 +1,1 @@
+export let urlAPICryptoCommunity = "https://nww-airdropv2-e9a586751e9d.herokuapp.com/airdrop/cryptocommunity";

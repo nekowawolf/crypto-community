@@ -17,7 +17,7 @@ export function fillCommunity(response) {
         if (currentData.length === 0) {
             container.innerHTML = `
                 <div class="text-center">
-                    <img src="https://nekowawolf.xyz/nvnww/img/pixchan.png" alt="No data found" class="mx-auto w-44 h-44">
+                    <img src="https://nekowawolf.xyz/admin/assets/img/pixchan.png" alt="No data found" class="mx-auto w-44 h-44">
                     <p class="text-gray-500 mt-4">No data available.</p>
                 </div>
             `;

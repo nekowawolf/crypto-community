@@ -1,5 +1,5 @@
 import { get } from "https://bukulapak.github.io/api/process.js";
-import { fillCommunity } from "./controller/get-community.js";
+import { fillCommunity } from "./controller/get-community-d1.js";
 import { urlAPICryptoCommunity } from "./config/url.js";
 
 document.getElementById('loading').classList.remove('hidden');
